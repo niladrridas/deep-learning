@@ -31,6 +31,6 @@ The `main.py` script loads the data from a CSV file named 'TSLA.csv' into a pand
 The model's prediction error is measured by the RMSE, which is printed at the end of the script. The training and validation loss is also plotted against the number of epochs to visualize the model's learning process.
 
 
-![Figure 1](https://github.com/niladrridas/deep-learning/blob/main/data/Figure_1.png?raw=true)
+![Figure 1](https://raw.githubusercontent.com/niladrridas/deep-learning/main/data/Figure_1.png)
 
-![Figure 2](https://github.com/niladrridas/deep-learning/blob/main/data/Figure_2.png?raw=true)
+![Figure 2](https://raw.githubusercontent.com/niladrridas/deep-learning/main/data/Figure_2.png)
