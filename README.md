@@ -32,3 +32,5 @@ The model's prediction error is measured by the RMSE, which is printed at the en
 
 
 ![Figure_1](https://github.com/niladrridas/deep-learning/blob/main/data/Figure_1.png)
+
+![Figure_2](https://github.com/niladrridas/deep-learning/blob/main/data/Figure_2.png)
